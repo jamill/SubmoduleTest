@@ -1,3 +1,6 @@
 [submodule "TestGitRepository"]
 	path = TestGitRepository
 	url = http://github.com/libgit2/TestGitRepository
+[submodule "SubmoduleTest2"]
+	path = SubmoduleTest2
+	url = https://github.com/jamill/SubmoduleTest2.git
